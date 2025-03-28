@@ -10,7 +10,7 @@ if os.path.exists(requirements_file):
 
 setup(
     name='apiverve_grammarcheck',
-    version='1.1.7',
+    version='1.1.9',
     packages=find_packages(),
     include_package_data=True,
     install_requires=install_requires,
